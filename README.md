@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a Student at [University of Jiaxing](https://www.zjxu.edu.cn/)
 
-- 👨‍💻 All of my projects are available at (https://janice0819.github.io/)
+- 👨‍💻 All of my projects are available at (https://janice-yee0819.github.io/Janice0819.github.io/)
 
 - 📫 How to reach me **2468282629@qq.com**
 

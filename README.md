@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at https://janice-yee0819.github.io/Janice0819.github.io/
 
 - 📫 How to reach me **2468282629@qq.com** or 18705731705(phone number)
-<img src="zcx证件照.jpg" width="60px" height="100px"/>
+<img src="zcx证件照.jpg" width="150px" height="200px"/>
 
 - 🪗 Chinese Name: 张岑萱
 

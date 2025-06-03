@@ -25,6 +25,7 @@
 - 🌔 Constellation: Leo
 
 - 🏚️ Home: Jiaxing,Zhejiang
+<img src="1.jpg" width="150px" height="200px"/>  <img src="2.jpg" width="150px" height="200px"/>  <img src="3.jpg" width="150px" height="200px"/>
 
 - ⏯️ Hobbies and Specialties: Sketch,Oil Painting,Guzheng,Singing and so on
 

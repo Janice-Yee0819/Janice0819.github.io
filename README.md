@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Jasper(Zongrong)</h1>
+<h1 align="center">Hi 👋, I'm Janice(ZhangCenXuan)</h1>
 <h3 align="center">An interdisciplinary researcher exploring urban science and human-environment interactions with GeoAI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasper0122&label=Profile%20views&color=0e75b6&style=flat" alt="jasper0122" /> </p>
 
-- 🔭 I’m currently a Master Student at [University of Southern California](https://www.usc.edu/)
+- 🔭 I’m currently a Student at [University of Jiangxing](https://www.zjxu.edu.cn/)
 
-- 👨‍💻 All of my projects are available at [https://jasper0122.github.io/](https://jasper0122.github.io/)
+- 👨‍💻 All of my projects are available at [https://jasper0122.github.io/](https://janice0819.github.io/)
 
-- 📫 How to reach me **zongrong@usc.edu**
+- 📫 How to reach me **2468282629@qq.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

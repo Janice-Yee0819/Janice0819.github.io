@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasper0122&label=Profile%20views&color=0e75b6&style=flat" alt="jasper0122" /> </p>
 
-- 🔭 I’m currently a Student at [University of Jiangxing](https://www.zjxu.edu.cn/)
+- 🔭 I’m currently a Student at [University of Jiaxing](https://www.zjxu.edu.cn/)
 
-- 👨‍💻 All of my projects are available at [https://jasper0122.github.io/](https://janice0819.github.io/)
+- 👨‍💻 All of my projects are available at (https://janice0819.github.io/)
 
 - 📫 How to reach me **2468282629@qq.com**
 
